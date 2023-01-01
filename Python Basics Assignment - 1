@@ -1,0 +1,116 @@
+1. In the below elements which of them are values or an expression? 
+ eg:- values can be integer or string and expressions will be mathematical operators.
+
+Ans = 'hello', -87.8, 6 are "Values" where as *, -, /, + are the expression.
+
+2. What is the difference between string and variable?
+
+Ans
+
+Major difference between string and variable is that we use variable to store the data like String. Example we can store the "Somesh" string in the "name" variable. 
+
+3. Describe three different data types.
+
+Ans
+
+List = List is majorly used to store multiple data in the single variable.
+Integer = Integer are the numeriacal data type but it should not be in decimal. 
+Boolean = Boolean is the data type consists of True or False.
+
+4. What is an expression made up of? What do all expressions do?
+
+Ans
+
+Expression are made up of mathematical values like -, +, *, /, =. Such expressions are used to conduct mathematical operations like 5 + 5 = 10.
+
+5. This assignment statements, like spam = 10. What is the difference between an expression and a statement?
+
+Ans
+
+Statements are the instruction to perform something like print("Hello") and expressions are like 5 + 5 = 10. 
+
+6. After running the following code, what does the variable bacon contain?
+bacon = 22
+bacon + 1
+
+Ans
+
+bacon variable will contain 23.
+
+7. What should the values of the following two terms be?
+'spam' + 'spamspam'
+'spam' * 3
+
+
+Ans
+
+Value of the above terms will be as follows 
+
+'spam' + 'spamspam' = 'spamspamspam'
+'spam' * 3 = 'spamspamspam'
+
+8. Why is eggs a valid variable name while 100 is invalid?
+
+Ans
+
+Naming a variable with integer like 100 can bring an error in our code while compilation. Hence eggs is a valid variable name in successfully running out code. 
+
+9. What three functions can be used to get the integer, floating-point number, or string version of a value?
+ 
+Ans
+
+int(), float(), and str() functions can be used to get the integer, floating-point number, or string version of the value. 
+
+10. Why does this expression cause an error? How can you fix it?
+'I have eaten ' + 99 + ' burritos.'
+
+Ans 
+
+There are 2 data types in this expression i.e. integer and string. By converting 99 into string we can fix the error. 
+
+So the correct code will be as below. 
+
+'I have eaten ' + str(99) + ' burritos.'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
